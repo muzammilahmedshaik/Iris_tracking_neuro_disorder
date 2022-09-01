@@ -1,0 +1,13 @@
+lambda in which language? py
+true vault storage process? api
+postgres database is been accessed by django orm
+aws athena(sql)
+aws
+ec2
+s3
+aws lambda
+git
+docker
+
+data science
+git

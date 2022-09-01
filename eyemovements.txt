@@ -1,0 +1,5 @@
+right - 65-75
+left - 29-39
+center - 50-58
+up- 59-61
+down - 40-49
